@@ -3,7 +3,7 @@ Simulation of a simple Singele Cycle 32bit-MIPS processor using ModelSim.
 
 Credits to @DiabloBlood for providing the initial version to play around with.
 
-https://user-images.githubusercontent.com/28178855/89865759-f1375200-dbcb-11ea-9d5b-b013c10f4358.png
+![MIPS_Block](https://user-images.githubusercontent.com/28178855/89865759-f1375200-dbcb-11ea-9d5b-b013c10f4358.png)
 
 We have executed the following instructions :
 # Instruction Analysis
